@@ -6,5 +6,5 @@ npm install
 then
 
 ```sh
-node index.js
+node index.mjs
 ```

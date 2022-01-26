@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "bench": "node index.mjs"
   },
   "keywords": [],
   "author": "Sachin Raja <sachinraja2349@gmail.com>",
